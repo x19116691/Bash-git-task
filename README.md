@@ -1,1 +1,1 @@
-# week2 lab - bash and git 
+# week 2 lab-bash and git 
